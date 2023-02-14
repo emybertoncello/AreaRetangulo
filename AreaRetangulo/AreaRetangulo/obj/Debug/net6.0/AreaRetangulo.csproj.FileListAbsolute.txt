@@ -1,0 +1,15 @@
+C:\DotNet\AreaRetangulo\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.exe
+C:\DotNet\AreaRetangulo\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.deps.json
+C:\DotNet\AreaRetangulo\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.runtimeconfig.json
+C:\DotNet\AreaRetangulo\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.dll
+C:\DotNet\AreaRetangulo\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.pdb
+C:\DotNet\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.csproj.AssemblyReference.cache
+C:\DotNet\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.AssemblyInfoInputs.cache
+C:\DotNet\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.AssemblyInfo.cs
+C:\DotNet\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.csproj.CoreCompileInputs.cache
+C:\DotNet\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.dll
+C:\DotNet\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\refint\AreaRetangulo.dll
+C:\DotNet\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.pdb
+C:\DotNet\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.genruntimeconfig.cache
+C:\DotNet\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\ref\AreaRetangulo.dll
